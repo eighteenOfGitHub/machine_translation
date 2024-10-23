@@ -3,6 +3,16 @@
 
 # 文件结构
 data
-  |__fra_eng
-        |__ _about.txt
-        |__ fra.txt
+  |__ fra_eng
+         |__ _about.txt    数据说明
+             fra.txt       数据集 
+models                    模型参数
+config.py                  
+dataset.py
+dataset.py
+EncoderDecoder.py
+loss.py
+predict.py
+train.py
+utils.py
+vocab.py
