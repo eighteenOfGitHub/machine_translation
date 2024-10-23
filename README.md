@@ -3,7 +3,7 @@
 
 # 文件结构  
 data  
-----fra_eng
+----fra_eng   
 --------_about.txt    数据说明  
 --------fra.txt       数据集   
 models                模型参数    
